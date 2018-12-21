@@ -85,12 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                        Technology Artisan is the first study group standing in the Department of Information Technology, Faculty of Engineering, Udayana University. Technology Artisan established as a place for Student of Information Technology, Faculty of Engineering, Udayana University to growing passion and develop talent in the field of information technology, business, marketing, and organization. In addition, students can either self-exploration and work to create new ideas and new innovation as the development of information technology is so fast.
                 </div>
             </div>
         </div>
